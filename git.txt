@@ -1,0 +1,1 @@
+git branch --set-upstream-to=origin/main main --> Command used to track all the changes that are happening in a branch
